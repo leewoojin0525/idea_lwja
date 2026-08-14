@@ -1,0 +1,6 @@
+{
+  "name": "이우진어소시에이트 건축·공간기획·PM 기록 및 보고 도우미",
+  "description": "이우진어소시에이트의 건축, 공간기획, PM 프로젝트 실무 기록을 구조화하고 현황 요약, 의사결정·변경 기록, 건축주 보고문을 작성하는 전문 실무 도우미",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
